@@ -97,4 +97,4 @@ import mongoStructure from "./assets/db-coll-doc.png";
 
 import mongoOverview from "./assets/mongo_overview.png";
 
-<img src={mongoOverview} style={{ width: "900px" }} />
+<img src={/assets/mongo_overview} style={{ width: "900px" }} />
